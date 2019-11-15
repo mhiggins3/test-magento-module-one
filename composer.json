@@ -1,0 +1,28 @@
+{
+    "name": "mhiggins3/test-magento-module-one",
+
+    "description": "Magento test module one",
+
+    "authors": [
+        {
+            "name": "Matt Higgins",
+            "email": "matt@datapointpartners.com",
+            "homepage": "http://www.datapointpartners.com"
+        },
+        {
+            "name": "Matt Higgins"
+        }
+    ],
+
+    "type": "magento2-module",
+
+    "support": {
+        "documentation": "https://github.com/mhiggins3/test-magento-module-one/README.md"
+    },
+
+    "autoload": {
+        "files": [
+            "src/registration.php"
+        ],
+    }
+}
